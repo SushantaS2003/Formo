@@ -37,7 +37,7 @@ const HomePage = () => {
         </div>
       </main>
       <footer className="w-full flex justify-center py-4 bg-green-100">
-        <p className="text-gray-600">Made by Deepanshu</p>
+        <p className="text-gray-600">Made by Sushanta</p>
       </footer>
     </div>
   );
